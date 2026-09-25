@@ -7,3 +7,10 @@
 
 # String Templates
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7793786-12a9-4634-a87b-ee2663b4b9bb" />
+
+# Tipe Data Dasar
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/526984ba-8eea-47c1-a177-2615ded7e8b5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/663fae6d-baee-4f9b-a101-1e95e372b582" />
+
+
+
