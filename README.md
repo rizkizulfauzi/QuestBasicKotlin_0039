@@ -50,4 +50,7 @@
 # Class - Create Instance, Access Properties, Member Functions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/766969f5-e876-464f-b0a9-adb61db886c2" />
 
+# Data Classes<img 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6afdfc7-15e3-486f-b5d7-ea245269dff9" />
 
+# Null Safety
