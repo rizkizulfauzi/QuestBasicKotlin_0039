@@ -38,3 +38,5 @@
 # Loops - Do - While
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6896c972-fd17-465f-90c6-8ba30516b297" />
 
+# Loops - While
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37cc077e-e0ca-4d91-a1d8-1bfc10acd949" />
