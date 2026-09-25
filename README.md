@@ -12,5 +12,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/526984ba-8eea-47c1-a177-2615ded7e8b5" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/663fae6d-baee-4f9b-a101-1e95e372b582" />
 
+# Collection - List
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68ced8d8-f3a6-4d58-94d4-ddd8c1b290d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc507a7-9ce2-4622-b8f5-f641b323e059" />
 
 
