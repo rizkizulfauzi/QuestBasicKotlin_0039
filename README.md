@@ -29,3 +29,5 @@
 # Conditional Expressions - When
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f54bbe8c-adeb-425d-a6d4-b13111e66b8c" />
 
+# Ranges
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1253c9d-dd4b-4ecb-9c90-3d40d0fa3a6c" />
