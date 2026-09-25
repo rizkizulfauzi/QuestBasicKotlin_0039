@@ -40,3 +40,6 @@
 
 # Loops - While
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37cc077e-e0ca-4d91-a1d8-1bfc10acd949" />
+
+# Functions - Named Arguments, Default Parameter Values, Functions Without Return
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66e130ce-6503-49fe-a137-f1f98dbd85fc" />
